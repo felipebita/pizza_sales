@@ -2,10 +2,9 @@
 ![Screenshot 2023-10-25 002706](https://github.com/felipebita/pizza_sales/assets/44379044/7baeb298-5c80-41f1-b11e-65f1862c19dd)
 [Online Dashboard](https://1drv.ms/x/s!Ag85YM9fWhRfgrc0rie3399y8WQv9A?e=bkHLwG)
 ## **1 - Introduction**
+Presenting a Pizzeria Excel Dashboard project that delves into key performance indicators (KPIs) such as Total Revenue, Average Order Value, and more. From loading data into MS SQL Server to constructing a visually compelling dashboard, this portfolio highlights expertise in data analysis. The dashboard incorporates charts depicting daily and hourly trends, sales percentages by category and size, and identifies top and bottom pizza sellers. The project utilizes a tech stack comprising MS SQL Server and Excel, showcasing a comprehensive approach to deriving actionable insights for strategic decision-making in a concise manner.  
 
 ## **2 - Dashboard Requirement**
-Presenting a Pizzeria Excel Dashboard project that delves into key performance indicators (KPIs) such as Total Revenue, Average Order Value, and more. From loading data into MS SQL Server to constructing a visually compelling dashboard, this portfolio highlights expertise in data analysis. The dashboard incorporates charts depicting daily and hourly trends, sales percentages by category and size, and identifies top and bottom pizza sellers. The project utilizes a tech stack comprising MS SQL Server and Excel, showcasing a comprehensive approach to deriving actionable insights for strategic decision-making in a concise manner.  
-    
 ### **2.1 - KPI's Requirement**
 *  Total Revenue: the sum of the total price of all pizza orders
 *  Average Order Value: the average amount spent per order, calculated by dividing the total revenues by the total number of orders
